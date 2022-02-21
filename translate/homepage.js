@@ -27,5 +27,13 @@ SIMS_TRANSL={
   //对话框组件
 	"groupid":["群号： 1007056661","Group ID： 1007056661"],
 	"wechatid":["微信搜一搜： SimSoft","Wechat Search: SimSoft"],
-	"close":["关闭","Close"]
+	"close":["关闭","Close"],
+  //友情链接
+	"links-rth":["热铁盒软件","Retiehe Software"],
+	"links-starxn":["星辰云","Starxn Cloud"],
+	"links-message":["留言丨Message","Message"],
+	"links-bloker":["方块盒子工作室","ArkPowered"],
+	"links-ray":["射线集团丨rayGroup","rayGroup"],
+	"links-winx":["WindowX 的主页","WindowX's Homepage"],
+	"links-xiesite":["XIAYM 的屑站","XieSite"]
 }
