@@ -26,5 +26,6 @@ SIMS_TRANSL={
 	"simtodo_desc":["高效在线待办清单","Online Todo-List"],
   //对话框组件
 	"groupid":["群号： 1007056661","Group ID： 1007056661"],
-	"wechatid":["微信搜一搜： SimSoft","Wechat Search: SimSoft"]
+	"wechatid":["微信搜一搜： SimSoft","Wechat Search: SimSoft"],
+	"close":["关闭","Close"]
 }
