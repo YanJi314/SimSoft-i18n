@@ -23,5 +23,8 @@ SIMS_TRANSL={
 	"simvoice":["氢配音","SimVoice"],
 	"simvoice_desc":["在线AI配音制作","Text to Speech"],
 	"simtodo":["氢待办","SimTodo"],
-	"simtodo_desc":["高效在线待办清单","Online Todo-List"]
+	"simtodo_desc":["高效在线待办清单","Online Todo-List"],
+  //对话框组件
+	"groupid":["群号： 1007056661","Group ID： 1007056661"],
+	"wechatid":["微信搜一搜： SimSoft","Wechat Search: SimSoft"]
 }
