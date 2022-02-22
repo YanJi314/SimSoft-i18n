@@ -11,7 +11,7 @@ SIMS_TRANSL={
     "main-app-desc-empty":["没有创建应用","No app found"],
     "main-app-desc-num":["已创建 {num} 个应用","{num} app(s) created"],
     "main-fb-desc":["报告问题或建议新功能","Report an issue here"],
-    "main-del-desc":["永久删除您的氢软账户","Delete your account forever"]
+    "main-del-desc":["永久删除您的氢软账户","Delete your account forever"],
   //顶部导航&菜单项目
     "top-basic":["基本信息","Basic"],
     "top-device":["登录设备","Devices"],
