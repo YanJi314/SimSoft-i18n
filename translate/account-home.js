@@ -3,7 +3,7 @@ SIMS_TRANSL={
     "main-mail":["邮箱","Email Address"],
     "main-pwd":["密码","Password"],
     "main-exp":["我的积分","My Exp."],
-    "main-time":["注册时间","Registration"],
+    "main-time":["注册时间","Reg Time"],
     "main-app":["我的应用","Applications"],
     "main-fb":["发送反馈","Feedback"],
     "main-del":["删除账户","Delete Account"],
@@ -15,7 +15,7 @@ SIMS_TRANSL={
   //顶部导航&菜单项目
     "top-basic":["基本信息","Basic"],
     "top-device":["登录设备","Devices"],
-    "menu-homepage":["返回主站","SimSoft homepage"],
+    "menu-homepage":["返回主站","SimSoft Homepage"],
     "menu-tos":["服务条款","Terms of service"],
     "menu-logout":["退出登录","Logout"],
     "menu-about":["关于本站","About this page"],
@@ -32,11 +32,11 @@ SIMS_TRANSL={
     "fb-success":["反馈发送了呐~ 我们会尽快回复。祝您有美好的一天 (≧∇≦)ﾉ","Feedback sent successfully."],
     "fb-err":["发送反馈时遇到未知问题：<br>","Unknown error：<br>"],
     "fb-qq":["通过QQ发送","QQ Group"],
-    "fb-web":["在线发送","Webpage"],
+    "fb-web":["在线发送","Web Page"],
     "fb-qq-desc":["加入官方群聊<br>获得快速解答","Chat with us."],
     "fb-web-desc":["使用网页填写<br>便捷发送反馈","Send here."],
     "fb-qq-btn":["复制群号","Copy ID"],
     "fb-web-btn":["发送反馈","Select"],
     "fb-cancel":["取消","Cencel"],
-    "fb-web-placeholder":["请在这里输入反馈内容呐~ 利用此功能发送无意义信息或骚扰客服将被永久封禁账号<( ￣^￣)>","Type your feedback..."]
+    "fb-web-placeholder":["请在这里输入反馈内容呐~ 利用此功能发送无意义信息或骚扰客服将被永久封禁账号<( ￣^￣)>","Type your feedback here..."]
 }
