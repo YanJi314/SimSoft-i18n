@@ -7,7 +7,7 @@ SIMS_TRANSL={
     "main-app":["我的应用","Applications"],
     "main-fb":["发送反馈","Feedback"],
     "main-del":["删除账户","Delete Account"],
-    "main-exp-desc":["当前拥有 {num} 积分","You have {num} Exps."],
+    "main-exp-desc":["当前拥有 <span id='exp'></span> 积分","You have <span id='exp'></span> Exps."],
     "main-app-desc-empty":["没有创建应用","No app found"],
     "main-app-desc-num":["已创建 {num} 个应用","{num} app(s) created"],
     "main-fb-desc":["报告问题或建议新功能","Report an issue here"],
