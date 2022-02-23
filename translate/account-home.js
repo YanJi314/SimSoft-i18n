@@ -6,25 +6,25 @@ SIMS_TRANSL={
     "main-time":["注册时间","Registration"],
     "main-app":["我的应用","Applications"],
     "main-fb":["发送反馈","Feedback"],
-    "main-del":["删除账户","Delete Account"],
+    "main-del":["删除账户","Delete Your Account"],
     "main-exp-desc":["当前拥有 <span id='exp'></span> 积分","You have <span id='exp'></span> Exp."],
     "main-app-desc-empty":["没有创建应用","No app found"],
     "main-app-desc-num":["已创建 {num} 个应用","{num} app(s) created"],
     "main-fb-desc":["报告问题或建议新功能","Report an issue here"],
     "main-del-desc":["永久删除您的氢软账户","Delete your account forever"],
   //顶部导航&菜单项目
-    "top-basic":["基本信息","Basic"],
+    "top-basic":["基本信息","Basic Information"],
     "top-device":["登录设备","Devices"],
-    "menu-homepage":["返回主站","SimSoft homepage"],
+    "menu-homepage":["返回主站","SimSoft Homepage"],
     "menu-tos":["服务条款","Terms of service"],
     "menu-logout":["退出登录","Logout"],
     "menu-about":["关于本站","About this page"],
     "title":["氢软账户","My SimSoft Account"],
   //消息框内容
-    "emailCopied":["邮箱复制到剪切板了呐 φ(*￣0￣)","Email address copied to clipboard."],
+    "emailCopied":["邮箱复制到剪切板了呐 φ(*￣0￣)","Email address copied to the clipboard."],
     "logoutAll":["从所有设备退出登录","Logout from all devices"],
     "logoutCurr":["若要在当前设备退出登录，请使用菜单中的『退出登录』功能_(:з」∠)_","Use 'logout' in the menu to logout from current device."],
-    "currDeviceTip":[" (当前设备)"," (Current)"],
+    "currDeviceTip":[" (当前设备)"," (Current Device)"],
     "regTime":["您是氢软的第 {num} 位注册用户！<br>感谢您对氢软的支持[]~(￣▽￣)~*","You're the NO.{num} user of SimSoft."],
     "aboutPage":['<b>氢软账户系统</b><br><br>开发者：YSH（YanJi）<br>对本站的一切盗版行为将受到追究。<br><br>Based on SimUI 4.0.','<b>SimSoft Account</b><br><br>Developer：YSH（YanJi）<br>Copyright © SimSoft.<br><br>Based on SimUI 4.0.'],
   //用户反馈
@@ -36,6 +36,6 @@ SIMS_TRANSL={
     "fb-web-desc":["使用网页填写<br>便捷发送反馈","Send here."],
     "fb-qq-btn":["复制群号","Copy ID"],
     "fb-web-btn":["发送反馈","Select"],
-    "fb-cancel":["取消","Cencel"],
-    "fb-web-placeholder":["请在这里输入反馈内容呐~ 利用此功能发送无意义信息或骚扰客服将被永久封禁账号<( ￣^￣)>","Type your feedback..."]
+    "fb-cancel":["取消","Cancel"],
+    "fb-web-placeholder":["请在这里输入反馈内容呐~ 利用此功能发送无意义信息或骚扰客服将被永久封禁账号<( ￣^￣)>","Type your feedback here..."]
 }
