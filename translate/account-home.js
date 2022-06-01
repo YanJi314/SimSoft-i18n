@@ -27,7 +27,7 @@ SIMS_TRANSL={
     "currDeviceTip":[" (当前设备)"," (Current)"],
     "regTime":["您是氢软的第 {num} 位注册用户！<br>感谢您对氢软的支持[]~(￣▽￣)~*","You're the NO.{num} user of SimSoft."],
     "logoutAllConfirm":["确实要从所有设备退出登录吗？您也将从当前设备退出账号(/▽＼)","Logout from all devices?"],
-    "aboutPage":['<b>氢软账户系统</b><br><br>开发者：YSH（YanJi）<br>对本站的一切盗版行为将受到追究。<br><br>Based on SimUI 4.0.','<b>SimSoft Account</b><br><br>Developer：YSH（YanJi）<br>Copyright © SimSoft.<br><br>Based on SimUI 4.0.'],
+    "aboutPage":['<b>氢软账户系统</b><br><br>对本站的一切盗版行为将受到追究。<br><br>Based on SimUI 4X','<b>SimSoft Account</b><br><br>Copyright © SimSoft.<br><br>Based on SimUI 4X'],
   //用户反馈
     "fb-success":["反馈发送了呐~ 我们会尽快回复。祝您有美好的一天 (≧∇≦)ﾉ","Feedback sent successfully."],
     "fb-err":["发送反馈时遇到未知问题：<br>","Unknown error：<br>"],
